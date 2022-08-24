@@ -1,3 +1,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  color: rgb(87, 40, 40);
+  background: rgb(191,9,144);
+background: linear-gradient(0deg, rgba(191,9,144,1) 0%, rgba(162,123,40,1) 100%, rgba(162,123,40,1) 116%);
+}
+input[type="text"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2px;
 }
